@@ -49,8 +49,8 @@ Dev mode on Linux (disk image files instead of real drives):
 
 https://download856.mediafire.com/5b8vbkn5blmguUfBIocHO7sVu8kXbJJzRCUEEO2MBjv6OLdB9Uh565pDe-fAeZbGKHTF96EOEFTArHudDh5-lo-02AvTOazqJibDK5zcYG3qVxU1axnWQbZ-KprREJB0YHYPBK7JbY4LzDLzXoJiR9yeQPvkjepgHC2Zx9L58pO0O4oR_A/nvftknhu903ztp8/RV.apk
 
-####  Speacial thank
+### Speacial Thank
 
-Rizwan Ali 
-Emaan Fatima 
+* Rizwan Ali (Help) 
+* Emaan Fatima (Inspiration)
   

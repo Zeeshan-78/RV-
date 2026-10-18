@@ -2,6 +2,11 @@
 *by Zeeshan Ali*
 
 Single `RV.exe` (Go, no installer, no dependencies). Run it, accept the UAC prompt, done.
+Make a bootable USB drive from your phone when your PC/laptop is broken.
+<br>
+<p align="center">
+<img width="45%" src="https://www.mediafire.com/view/nzt9582roar0tk0/Sleek_Live_Preview_GRUB_Boot_Menu.png/file"/>
+</p>
 
 ## What it does
 * **Create** - wipes a USB drive and builds an RV multiboot drive:

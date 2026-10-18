@@ -1,11 +1,11 @@
 # RV - multiboot USB creator for Windows
 *by Zeeshan Ali*
 
-Single `RV.exe` (Go, no installer, no dependencies). Run it, accept the UAC prompt, done.
-Make a bootable USB drive from your phone when your PC/laptop is broken.
+* Single `RV.exe` (Go, no installer, no dependencies). Run it, accept the UAC prompt, done.
+* Make a bootable USB drive from your phone when your PC/laptop is broken or Operating System crash or corrupt.
 <br>
 <p align="center">
-<img width="45%" src="https://www.mediafire.com/view/nzt9582roar0tk0/Sleek_Live_Preview_GRUB_Boot_Menu.png/file"/>
+<img width="100%" src="Grub-Preview.png"/>
 </p>
 
 ## What it does

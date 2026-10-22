@@ -47,7 +47,7 @@ Dev mode on Linux (disk image files instead of real drives):
 `tests/` has the QEMU scripts used for verification.
 
 ### Download for Windows
- https://www.mediafire.com/file/0ndfz4an6s5laep/RV_by_Zeeshan_Ali.exe/file
+ https://www.mediafire.com/file/pcnny96stfcrt4w/Rv_by_Zeeshan.exe/file
 ### Download for Android 
 https://www.mediafire.com/file/u8tmg24pa9lk1ue/RV_by_Zeeshan_Ali.apk/file
 ### Speacial Thank

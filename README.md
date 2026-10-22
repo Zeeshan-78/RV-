@@ -47,13 +47,9 @@ Dev mode on Linux (disk image files instead of real drives):
 `tests/` has the QEMU scripts used for verification.
 
 ### Download for Windows
- 
- https://download1654.mediafire.com/ozmcz67gtbjgnefM0UtvM7ZJ49ylkUY-R3fMiXSBG--hVRANy_Li97KJSL7jMnx3KZ-taLPzeBXjIw4Bks5pY6RLSNPTxTN_R6ZigNyD3lY-vWZZ3G9bc6a2W3e-bbMY7Cl5hxKqEtb6JdkEttGgZNWXLR0bxIl2VkyJ6r9NfYpEACGFUQ/o9q5d460cwlrkqf/RV.exe
-
+ https://www.mediafire.com/file/0ndfz4an6s5laep/RV_by_Zeeshan_Ali.exe/file
 ### Download for Android 
-
-https://download856.mediafire.com/5b8vbkn5blmguUfBIocHO7sVu8kXbJJzRCUEEO2MBjv6OLdB9Uh565pDe-fAeZbGKHTF96EOEFTArHudDh5-lo-02AvTOazqJibDK5zcYG3qVxU1axnWQbZ-KprREJB0YHYPBK7JbY4LzDLzXoJiR9yeQPvkjepgHC2Zx9L58pO0O4oR_A/nvftknhu903ztp8/RV.apk
-
+https://www.mediafire.com/file/u8tmg24pa9lk1ue/RV_by_Zeeshan_Ali.apk/file
 ### Speacial Thank
 
 * Rizwan Ali (Help) 

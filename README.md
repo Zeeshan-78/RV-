@@ -53,4 +53,3 @@ https://www.mediafire.com/file/u8tmg24pa9lk1ue/RV_by_Zeeshan_Ali.apk/file
 ### Speacial Thank
 
 * Rizwan Ali (Help) 
-* Emaan Fatima (Inspiration)
